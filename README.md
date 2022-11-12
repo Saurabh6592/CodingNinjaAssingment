@@ -1,2 +1,0 @@
-# CodingNinjaAssingment
-Created with CodeSandbox
